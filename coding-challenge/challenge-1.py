@@ -9,12 +9,12 @@
 string= 'Hello World'
 newstring = ''
 
-#showing lower case and upper case methods
-print(string.lower())
-print(string.upper())
-#showing true/false situations for string
-print(string.isupper())
-print(string.islower())
+# #showing lower case and upper case methods
+# print(string.lower())
+# print(string.upper())
+# #showing true/false situations for string
+# print(string.isupper())
+# print(string.islower())
 
 #a is for looping each letter in the string
 for a in string:

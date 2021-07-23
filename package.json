@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12"
+  },
+  "name": "technical-interviewing-loop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miknayr/technical-interviewing-loop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miknayr/technical-interviewing-loop/issues"
+  },
+  "homepage": "https://github.com/miknayr/technical-interviewing-loop#readme",
+  "description": ""
+}
