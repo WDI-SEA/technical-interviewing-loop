@@ -5,6 +5,7 @@
 # else if letters are lowercase, return to uppercase.
 # return 'hELLO wORLD'
 
+#create a string for "Hello World", and create an empty string for "hELLO wORLD"
 string= 'Hello World'
 newstring = ''
 
