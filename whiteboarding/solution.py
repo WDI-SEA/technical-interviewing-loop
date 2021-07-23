@@ -13,7 +13,7 @@ class Solution:
             # Reverse order if true
             w1, w2 = w2, w1
 
-        # Kepp track of umber of incorrect letters, start at 0
+        # Keep track of umber of incorrect letters, start at 0
         inc = 0
 
         # Loop over w1 with i and w2 with j, set both equal to 0
@@ -29,7 +29,7 @@ class Solution:
                 # Found an inc letter, increment counter
                 inc += 1
                 
-                # Check if wrong > 1, return False if so
+                # Check if inc > 1, return False if so
                 if inc > 1:
                     return False
                 
@@ -41,6 +41,7 @@ class Solution:
                 # of an extra letter.
                 if len(w1) == len(w2):
                     j += 1
+            
             # Else if indexes match, move to next letter in both
             else: 
                 i += 1
