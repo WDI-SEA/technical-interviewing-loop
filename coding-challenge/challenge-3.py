@@ -11,7 +11,6 @@ returns 15
 arr = [453, "hello", 293, True]
 x = 0
 for item in arr:
-
     for char in str(item):
         x +=1
 print(x)
