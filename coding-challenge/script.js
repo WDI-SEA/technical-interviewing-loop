@@ -15,7 +15,6 @@ const findRando = () => {
             console.log(randoArray)
         }) 
         .catch(err => console.log(err))
-
 }
 
 findRando()
