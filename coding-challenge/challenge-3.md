@@ -7,3 +7,4 @@ Example:
 arr = [453, "hello", 293, True]
 returns 15
 ```
+

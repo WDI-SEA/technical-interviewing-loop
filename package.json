@@ -1,0 +1,23 @@
+{
+  "name": "technical-interviewing-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaackie25/technical-interviewing-loop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaackie25/technical-interviewing-loop/issues"
+  },
+  "homepage": "https://github.com/jaackie25/technical-interviewing-loop#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
